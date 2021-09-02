@@ -1,3 +1,1 @@
-﻿using SharkBot.Main;
-
-await Program.MainAsync();
+﻿await SharkBot.Main.Program.BotAsync();
