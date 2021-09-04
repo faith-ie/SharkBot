@@ -1,6 +1,7 @@
 using DSharpPlus;
 using LiteDB;
 using System.IO;
+using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
